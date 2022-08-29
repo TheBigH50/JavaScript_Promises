@@ -31,7 +31,7 @@ function getList() {
   });
 }
 
-// TODO: Handle the resolved or rejected states of the promise
+//TODO: Handle the resolved or rejected states of the promise
 
 // TODO: If the promise resolves with the list of hobbits
 // Render the list of hobbits as list items within the unordered list with id="list" (check the index.html file)
